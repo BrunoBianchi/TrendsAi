@@ -1,0 +1,6 @@
+**assets/
+**/assets/
+node_modules/
+/assets/
+.env
+token.json
